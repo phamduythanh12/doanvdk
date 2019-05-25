@@ -1,0 +1,14 @@
+E:\do an VDK\Do_an_vdk\Do_an_vdk\bin\Release\Do_an_vdk.exe.config
+E:\do an VDK\Do_an_vdk\Do_an_vdk\bin\Release\Do_an_vdk.exe
+E:\do an VDK\Do_an_vdk\Do_an_vdk\bin\Release\Do_an_vdk.pdb
+E:\do an VDK\Do_an_vdk\Do_an_vdk\bin\Release\MySql.Data.dll
+E:\do an VDK\Do_an_vdk\Do_an_vdk\bin\Release\Google.Protobuf.dll
+E:\do an VDK\Do_an_vdk\Do_an_vdk\bin\Release\MySql.Data.xml
+E:\do an VDK\Do_an_vdk\Do_an_vdk\obj\Release\Do_an_vdk.csprojAssemblyReference.cache
+E:\do an VDK\Do_an_vdk\Do_an_vdk\obj\Release\Do_an_vdk.Form1.resources
+E:\do an VDK\Do_an_vdk\Do_an_vdk\obj\Release\Do_an_vdk.Properties.Resources.resources
+E:\do an VDK\Do_an_vdk\Do_an_vdk\obj\Release\Do_an_vdk.csproj.GenerateResource.cache
+E:\do an VDK\Do_an_vdk\Do_an_vdk\obj\Release\Do_an_vdk.csproj.CoreCompileInputs.cache
+E:\do an VDK\Do_an_vdk\Do_an_vdk\obj\Release\Do_an_vdk.csproj.CopyComplete
+E:\do an VDK\Do_an_vdk\Do_an_vdk\obj\Release\Do_an_vdk.exe
+E:\do an VDK\Do_an_vdk\Do_an_vdk\obj\Release\Do_an_vdk.pdb
